@@ -1,0 +1,61 @@
+{
+  "blogs": [
+    {
+      "title": "HTML",
+      "category": "WEB Language",
+      "image": "https://www.pierre-giraud.com/wp-content/uploads/2019/05/html-img-display-block.png",
+      "description": "Syntax: Placed inside the opening tag, like <html lang=\"en\">.Accessibility: Helps screen readers pronounce words correctly for visually impaired users.SEO: Helps Google show your site to the right audience based on their language.Translation: Triggers browser prompts to translate pages automatically.Codes: Uses standard short codes (e.g., es for Spanish, fr for French).",
+      "author": "Vaishnavi Bagde",
+      "id": "Rx-j1HTj484"
+    },
+    {
+      "title": "CSS",
+      "category": "WEB Language",
+      "image": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-1000-80.jpg",
+      "description": "CSS (Cascading Style Sheets) is the code used to design and style the visual layout of a webpage. It controls colors, fonts, spacing, positioning, and responsiveness across different device screens.",
+      "author": "Vaishnavi Bagde",
+      "id": "V_YgzlFhaeY"
+    },
+    {
+      "title": "JAVA Script ",
+      "category": "WEB Language",
+      "image": "https://t4.ftcdn.net/jpg/03/31/01/27/360_F_331012725_LTT1xXDlFAnk1ERCMozLN5MBFfzNpOQ0.jpg",
+      "description": "An HTML <img> tag represents an image, which you can control in JavaScript by accessing its element properties like src (source URL) or alt (description) to change images dynamically.",
+      "author": "Vaishnavi Bagde",
+      "id": "HhoDSF5DMYU"
+    },
+    {
+      "title": "Bootstrap ",
+      "category": "web framwork",
+      "image": "https://blog.getbootstrap.com/assets/img/2021/03/bootstrap-new-examples.png",
+      "description": "Bootstrap 5 is a powerful, open-source frontend framework used to build responsive, mobile-first websites quickly. It provides pre-designed HTML, CSS, and JavaScript components like buttons, grids, forms, and navigation bars.",
+      "author": "Vaishnavi Bagde",
+      "id": "FZFE3G9OLaQ"
+    },
+    {
+      "title": "React js ",
+      "category": "web library ",
+      "image": "https://www.codelabsystems.in/assets/img/blog/reactjs-article.webp",
+      "description": "Component-Based: Built using isolated, reusable code blocks.Virtual DOM: Updates only changed elements for fast performance.Declarative: You describe how the UI should look, and React handles the updates.Maintained by Meta: Backed by Facebook and a huge open-source community.",
+      "author": "Vaishnavi Bagde",
+      "id": "fuFP6IS8gDk"
+    },
+    {
+      "title": "Next js ",
+      "category": "web framwork",
+      "image": "https://www.0xkishan.com/_next/image?url=%2Fblogs%2Fnextjs%2Fhero.png&w=3840&q=75",
+      "description": "Next.js is an open-source, full-stack JavaScript framework built on top of React that enables developers to build fast, SEO-friendly web applications. Maintained by Vercel, it eliminates complex build configurations and provides out-of-the-box architecture for production-ready frontend and backend features",
+      "author": "Vaishnavi Bagde",
+      "id": "z0pKiDeabQs"
+    }
+  ],
+  "users": [
+    {
+      "name": "Vaishnavi Bagde",
+      "email": "bagdevaishnavi7@gmail.com",
+      "password": "1234",
+      "id": "hoJvpxQCr_c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
